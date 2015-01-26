@@ -10,10 +10,10 @@
 # include "../rbtree/rbtree.h"
 
 // Nom du type de l'arbre
-#define my_tree		t_rbnode
+# define my_tree	t_rbnode
 
 // Nom de la variable a afficher
-#define VALUE_TO_PRINT	value
+# define VALUE_TO_PRINT	value
 
 /*
 Exemple:
