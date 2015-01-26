@@ -24,7 +24,7 @@ typedef struct		s_rbnode {
 }			t_rbnode;
 */
 
-// Le code provient integralement de:
+// Le code suivant provient integralement de:
 // http://web.archive.org/web/20071224095835/http://www.openasthra.com/wp-content/uploads/2007/12/binary_trees1.c
 
 void print_ascii_tree(my_tree * t);

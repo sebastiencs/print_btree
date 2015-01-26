@@ -1,3 +1,6 @@
+// Le code suivant provient integralement de:
+// http://web.archive.org/web/20071224095835/http://www.openasthra.com/wp-content/uploads/2007/12/binary_trees1.c
+
 #include "print_btree.h"
 
 #define MAX_HEIGHT 1000
